@@ -310,3 +310,4 @@ if __name__ == '__main__':
     w.resize(style.WINDOW_WIDTH, style.VIDEO_HEIGHT + style.CANVAS_HEIGHT + 40)
     w.show()
     sys.exit(app.exec_())
+    
