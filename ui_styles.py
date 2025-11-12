@@ -9,6 +9,7 @@ ORANGE = (241, 196, 15)
 SHADOW_COLOR = (50, 50, 50, 80)
 TEXT_COLOR = (30, 30, 30)
 
+
 # Sizes (tuned for a wider window and larger webcam)
 # Recommended default window width for comfortable layout
 WINDOW_WIDTH = 960
